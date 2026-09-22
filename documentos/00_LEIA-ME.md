@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `ciencia da computação / Design Profissional`
+- Professor ou orientador: `Isabella Luiza Dos Santos Souza`
+- Grupo: `Os 5 caba e um segredo`
+- Integrantes: `Dion Dalton, Amauri De Aquino Lima, Daniel Carlos Silva, Alisson Da Silva Meireles, Laonardo Aparecido Resende Bispo`
+- Data de início: `22/09/2026`
 
 
 
