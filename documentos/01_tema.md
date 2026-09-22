@@ -6,9 +6,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Grupo: `PENDENTE`
+- Integrantes: `Dion Dalton`, `Amauri De Aquino Lima`, `Daniel Carlos Silva`, `Alisson Da Silva Meireles`, `Laonardo Aparecido Resende Bispo`
+- Data: `22/09/2027`
 
 ## Preenchimento
 
