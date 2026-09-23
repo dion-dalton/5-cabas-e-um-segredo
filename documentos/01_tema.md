@@ -61,4 +61,3 @@ Tema delimitado e justificativa.
 |---|---|
 | `[nome]` | `[preencher]` |
 
-Dion Dalton`, `Amauri De Aquino Lima`, `Daniel Carlos Silva`, `Alisson Da Silva Meireles`, `Laonardo Aparecido Resende Bispo
