@@ -8,7 +8,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 - Grupo: `PENDENTE`
 - Integrantes: `Dion Dalton`, `Amauri De Aquino Lima`, `Daniel Carlos Silva`, `Alisson Da Silva Meireles`, `Laonardo Aparecido Resende Bispo`
-- Data: `22/09/2027`
+- Data: `22/09/2026`
 
 ## Preenchimento
 
