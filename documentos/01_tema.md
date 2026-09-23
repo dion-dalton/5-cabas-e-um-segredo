@@ -39,7 +39,7 @@ da Informação mostrando com extrema claresa a importancia de adaptações para
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `Sim`
+- Há artigos científicos disponíveis? `Não`
 - O tema pode ser estudado no prazo? `Sim`
 - O grupo possui acesso às fontes necessárias? `Sim`
 
