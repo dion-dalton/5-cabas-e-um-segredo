@@ -31,10 +31,10 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Justificativa
 
 ```
-Existem pessoas em meio a sociedade com alto potencial porem baixa acessibilidade como Juan Mathews tambem reconhecido como "hacker cego"
-que tornou-se o primeiro cego a publicar uma vulnerabilidade no National Vulnerability Database (NVD) do governo dos Estados Unidos tambem
-sendo o primeiro deficiente visual no país a se formar em Defesa Cibernética e Segurança da Informação mostrando com extrema claresa a importancia
-de adaptações para inclusão digital.
+Existem pessoas em meio a sociedade com alto potencial porem baixa acessibilidade como Juan Mathews tambem reconhecido como
+"hacker cego" que tornou-se o primeiro cego a publicar uma vulnerabilidade no National Vulnerability Database (NVD) do
+governo dos Estados Unidos tambem sendo o primeiro deficiente visual no país a se formar em Defesa Cibernética e Segurança
+da Informação mostrando com extrema claresa a importancia de adaptações para inclusão digital.
 ```
 
 ### Viabilidade
