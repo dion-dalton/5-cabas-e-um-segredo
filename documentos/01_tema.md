@@ -14,29 +14,34 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`Letramento digital, inclusão social ao ambiente digital`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`A inclusão digital como ferramenta de acesso a educação, ao mercado de trabalho e aos serviços essenciais, reduzindo as desigualdades sociais e tecnológicas em vista a inovação.`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `Inclusão digital e redução de desigualdades`
+- Objeto estudado: `inclusão digital`
+- Contexto ou aplicação: `adaptação de sistemas diversos para inclusão digital`
+- Aspecto que será analisado: `A inclusão de pessoas com deficiencia ao digital para inovação`
+- O que ficará fora do estudo: ``
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+```
+Existem pessoas em meio a sociedade com alto potencial porem baixa acessibilidade como Juan Mathews tambem reconhecido como "hacker cego"
+que tornou-se o primeiro cego a publicar uma vulnerabilidade no National Vulnerability Database (NVD) do governo dos Estados Unidos tambem
+sendo o primeiro deficiente visual no país a se formar em Defesa Cibernética e Segurança da Informação mostrando com extrema claresa a importancia
+de adaptações para inclusão digital.
+```
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `Sim`
+- O tema pode ser estudado no prazo? `Sim`
+- O grupo possui acesso às fontes necessárias? `Sim`
 
 ## Produto da etapa
 
