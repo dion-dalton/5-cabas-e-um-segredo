@@ -23,10 +23,10 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `Inclusão digital e redução de desigualdades`
-- Objeto estudado: `inclusão digital`
+- Objeto estudado: `pessoas com alguma deficiencia`
 - Contexto ou aplicação: `adaptação de sistemas diversos para inclusão digital`
-- Aspecto que será analisado: `A inclusão de pessoas com deficiencia ao digital para inovação`
-- O que ficará fora do estudo: ``
+- Aspecto que será analisado: `A inclusão de pessoas com deficiencia ao digital para inovação, com atuação de Juan Mathews`
+- O que ficará fora do estudo: `distribuição de sistemas`
 
 ### Justificativa
 
@@ -60,3 +60,5 @@ Tema delimitado e justificativa.
 | Integrante | Atividade realizada |
 |---|---|
 | `[nome]` | `[preencher]` |
+
+Dion Dalton`, `Amauri De Aquino Lima`, `Daniel Carlos Silva`, `Alisson Da Silva Meireles`, `Laonardo Aparecido Resende Bispo
