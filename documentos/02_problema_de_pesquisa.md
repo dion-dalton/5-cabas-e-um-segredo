@@ -37,7 +37,7 @@ Pergunta de pesquisa aprovada.
 | Integrante | Atividade realizada |
 |---|---|
 | `[]` | `[preencher]` |
-| `[Dion Dalton]` |	| `[Elaboração da pergunta de pesquisa]` |
+| `[Dion Dalton]` 	| `[Elaboração da pergunta de pesquisa]` |
 | `[Amauri De Aquino Lima]` | `[Preenchimento dos itens de objeto e contexto na verificação]` |
 | `[Daniel Carlos Silva]` | `[Escrita da justificativa da relevância da pergunta]` |
 | `[Alisson Da Silva Meireles]` | `[Checagem da viabilidade de resposta por artigos e checklist]` |
