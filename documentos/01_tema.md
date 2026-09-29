@@ -45,19 +45,25 @@ da Informação mostrando com extrema claresa a importancia de adaptações para
 
 ## Produto da etapa
 
-Tema delimitado e justificativa.
+Tema delimitado e justificativa focados na acessibilidade de sistemas para inclusão de pessoas com deficiência na área de tecnologia.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
+- [X] O tema é específico.
+- [X] O tema é relevante.
+- [X] O tema é viável.
+- [X] O recorte está claro.
 - [ ] O tema foi validado pelo professor.
 
 ## Contribuições
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Dion Dalton]` | `[Pesquisa dos artigos iniciais e definição da área geral]` |
+| `[Amauri De Aquino Lima]` | `[Redação do tema amplo ao específico]` |
+| `[Daniel Carlos Silva]` | `[Escrita da justificativa e levantamento sobre o caso do Juan Mathews]` |
+| `[Alisson Da Silva Meireles]` | `[Definição do escopo e do que fica fora do estudo]` |
+| `[Leonardo Aparecido Resende Bispo]` | `[Organização da viabilidade, checklist e revisão final da etapa]` |
+
+
 
