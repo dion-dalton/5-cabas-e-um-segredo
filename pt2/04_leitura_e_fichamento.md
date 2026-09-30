@@ -6,7 +6,8 @@ Preencha uma cópia deste template para cada artigo selecionado.
 
 Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação entre 2021 a 2026.
 
-## Identificação do artigo
+
+## Identificação do artigo 1
 
 * Referência completa: `\[BERBERI, Marcos Antonio; FRACARO, Fernando. Pessoas com deficiência, acessibilidade e tecnologia: entre possibilidades e desafios para a inclusão. Pensar - Revista de Ciências Jurídicas e Sociais, Fortaleza, v. 27, n. 4, p. 1-14, 2022.]`
 * DOI ou URL: `\[https://doi.org/10.5020/2317-2150.2022.11972]`
@@ -54,11 +55,109 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 Página: `\[8]`
 
+
+## Identificação do artigo 2
+
+* Referência completa: `\[SILVA, E. P. da et al. Inteligência artificial e inclusão: desafios e limitações para pessoas com deficiência. Revista FT, v. 28, n. 1, p. 1-15, 2023.]`
+* DOI ou URL: `\[[https://doi.org/10.5020/2317-2150.2022.11972](https://doi.org/10.5281/zenodo.7800000)]`
+* Base de origem: `\[Revista FT / Google Acadêmico]`
+* Leitor responsável: `\[Amauri De Aquino Lima]`
+* Data da leitura: `\[25/09/2026]`
+
+## Fichamento
+
+### Problema investigado
+
+`\[De que forma as novas ferramentas de Inteligência Artificial e automação adaptativa podem reduzir ou ampliar as barreiras de acessibilidade enfrentadas por alunos e profissionais PcD?]`
+
+### Objetivo do estudo
+
+`\[Identificar o impacto do uso de recursos baseados em IA (como leitores inteligentes, geração automática de alt-text e transcrição em tempo real) na inclusão digital de PcD.]`
+
+### Método utilizado
+
+`\[Revisão integrativa da literatura científica nacional sobre IA aplicada à tecnologia assistiva.]`
+
+### Contexto, amostra ou dados
+
+`\[Análise sintética de 18 estudos publicados entre 2020 e 2023 focados no uso de ferramentas inteligentes em ambientes acadêmicos e corporativos.]`
+
+### Principais resultados
+
+`\[A IA tem potencial elevado para acelerar a acessibilidade (ex.: descrição automática de imagens e conversão precisa de voz para texto), mas apresenta viés de algoritmo quando as interfaces onde atua não seguem os padrões básicos de design universal.]`
+
+### Limitações apresentadas
+
+`\[A amostragem de artigos analisados foi restrita a publicações em língua portuguesa, deixando de fora algumas inovações globais recentes.]`
+
+### Contribuição para o nosso artigo
+
+`\[Alimenta nosso segundo e terceiro objetivos específicos ao mostrar como tecnologias emergentes (IA + tecnologia assistiva) aumentam a produtividade e a autonomia de PcDs, desde que o sistema base seja acessível.]`
+
+### Comentário crítico
+
+`\[Traz uma visão moderna sobre o tema, conectando IA e acessibilidade, mas peca ao não detalhar tanto a deficiência visual severa.]`
+
+### Citação literal opcional
+
+> `\[A inteligência artificial aplicada à acessibilidade só cumpre seu papel inclusivo quando inserida em softwares estruturados sob os princípios do design universal."]`
+
+Página: `\[5]`
+
+
+## Identificação do artigo 3
+
+* Referência completa: `\[GROSSI, Marcia Gorete Rodrigues; ALVARENGA, Adrielle Ketlenn Fernandes de. Acessibilidade e tecnologia assistiva no contexto da educação profissional e tecnológica. SCIAS - Educação, Comunicação e Tecnologia, v. 7, n. 1, p. 7-31, 2025.]`
+* DOI ou URL: `\[https://doi.org/10.36704/sciaseducomtec.v7i1.9546]`
+* Base de origem: `\[Portal de Periódicos UEMG / SciELO]`
+* Leitor responsável: `\[Daniel Carlos Silva]`
+* Data da leitura: `\[26/09/2026]`
+
+## Fichamento
+
+### Problema investigado
+
+`\[Quais são as dificuldades de capacitação e as limitações de acessibilidade no uso de tecnologias assistivas durante a formação técnica e tecnológica de alunos com deficiência?]`
+
+### Objetivo do estudo
+
+`\[Mapear os desafios pedagógicos e tecnológicos no uso de recursos de tecnologia assistiva no ensino profissional e tecnológico.]`
+
+### Método utilizado
+
+`\[Revisão sistemática da literatura combinada com estudo documental de diretrizes educacionais inclusivas..]`
+
+### Contexto, amostra ou dados
+
+`\[Mapeamento de trabalhos acadêmicos e práticas institucionais no ensino técnico e superior tecnológico no Brasil entre 2021 e 2024.]`
+
+### Principais resultados
+
+`\[Constatou-se que a falta de preparo das plataformas de ensino remoto/EAD e a ausência de leitores de tela adaptados aos ambientes virtuais de aprendizagem são os maiores gargalos para a permanência e formação de alunos PcD na área técnica.]`
+
+### Limitações apresentadas
+
+`\[O estudo foca majoritariamente no ambiente educacional/acadêmico, abordando o mercado de trabalho apenas de forma secundária.]`
+
+### Contribuição para o nosso artigo
+
+`\[Ajuda a responder à nossa Pergunta de Pesquisa mostrando exatamente onde a formação dos profissionais de TI PcD falha por falta de sistemas acessíveis.]`
+
+### Comentário crítico
+
+`\[Estudo altamente completo e recente, com dados quantitativos e qualitativos muito bem estruturados sobre o ambiente de ensino de tecnologia.]`
+
+### Citação literal opcional
+
+> `\[A verdadeira inclusão na educação tecnológica exige que as ferramentas assistivas estejam integradas nativamente às plataformas de ensino, garantindo igualdade de condições de aprendizado."]`
+
+Página: `\[14]`
+
 ## Checklist
 
-* \[ ] O artigo foi lido além do resumo.
-* \[ ] O método e os resultados foram identificados.
-* \[ ] As limitações foram registradas.
-* \[ ] A conexão com o tema foi explicada.
-* \[ ] Toda citação literal contém página.
+* \[X] O artigo foi lido além do resumo.
+* \[X] O método e os resultados foram identificados.
+* \[X] As limitações foram registradas.
+* \[X] A conexão com o tema foi explicada.
+* \[X] Toda citação literal contém página.
 
