@@ -46,7 +46,9 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[nome]`|
-
-
+|`\[Metodologia]`|`\[Ausência do período exato das buscas e detalhamento da triagem dos artigos.]`|`\[Incluídos o período exato de busca e os critérios de inclusão/exclusão da triagem.]`|`\[Dion Dalton]`|
+|`\[Revisão da Literatura]`|`\[Parágrafos com resumos isolados sem comparação explícita entre os autores.]`|`\[Reescreveu-se conectando os estudos e comparando as abordagens de Berberi & Fracaro (2022) com Grossi & Alvarenga (2025).]`|`\[Amauri De Aquino Lima]`|
+|`\[Citações e Referências]`|`\[Formatação dos DOIs e abreviações dos nomes de autores fora do padrão ABNT.]`|`\[Padronizaram-se as referências em estilo ABNT com todos os DOIs ativos e checados.]`|`\[Daniel Carlos Silva]`|
+|`\[Geral / Escrita]`|`\[Presença de jargões e frases longas na introdução que deixavam o foco ambíguo.]`|`\[Ajustaram-se a concordância e o sentido do texto para manter tom acadêmico e objetivo.]`|`\[Alisson da Silva Meireles]`|
+|`\[Considerações Finais]`|`\[A conclusão não reforçava as limitações da amostra do artigo de revisão.]`|`\[Adicionou-se o parágrafo explicitando a limitação amostral e a sugestão de pesquisas futuras em IDEs.]`|`\[Leonardo Aparecido Resende Bispo]`|
 
