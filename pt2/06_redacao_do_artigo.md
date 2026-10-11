@@ -20,7 +20,7 @@ Este estudo é justificado porque demonstra que esse cenário pode variar. Com u
 ## Metodologia
 
 `\\\[Esta pesquisa consiste em um artigo de revisão bibliográfica de caráter qualitativo e exploratório. A coleta de dados ocorreu entre as bases de dados SciELO, Google Acadêmico e o Portal de Periódicos da UEMG. A estratégia de busca utilizou combinações de descritores em língua portuguesa, como "Acessibilidade Digital", "Tecnologia Assistiva", "Inclusão no Ensino de TI" e "Web Accessibility". 
-Foram estabelecidos como critérios de inclusão: artigos científicos completos e publicados no recorte temporal de 2021 a 2026. Os critérios de exclusão descartaram trabalhos duplicados, monografias não submetidas a parecer de pares e artigos fora do escopo de TI e acessibilidade. Após a triagem por leitura de títulos, resumos e texto integral, foram selecionados três estudos centrais para compor a matriz de síntese analítica desta revisão.]`
+Foram estabelecidos como critérios de inclusão: artigos científicos completos e publicados no recorte temporal de 2022 e 2025. Os critérios de exclusão descartaram trabalhos duplicados, monografias não submetidas a parecer de pares e artigos fora do escopo de TI e acessibilidade. Após a triagem por leitura de títulos, resumos e texto integral, foram selecionados três estudos centrais para compor a matriz de síntese analítica desta revisão.]`
 
 ## Revisão da literatura
 
@@ -38,6 +38,7 @@ Em contrapartida, Berberi e Fracaro (2022) salientam que tecnologias assistivas 
 
 `\\\[Os estudos se complementam para indicar um caminho sem dúvida promissor: a criação de tecnologias assistivas, aliadas a ferramentas de IA, pode tornar possível a participação acadêmica e profissional de pessoas com deficiência no setor de tecnologia.  No entanto, surgem diferenças quanto à ênfase das investigações, que se dividem entre a perspectiva normativo-legal e a análise de recursos pedagógicos. 
 Identificou-se, na literatura científica, uma significativa lacuna no que tange à escassez de estudos empíricos que avaliem a acessibilidade nas reais ferramentas de desenvolvimento de software, como Ambientes de Desenvolvimento Integrado (IDEs), repositórios de código e plataformas de segurança da informação.`
+
 ## Considerações finais
 
 `\\\[O presente estudo atendeu ao que se propôs, evidenciando que a implementação de diretrizes de acessibilidade e de tecnologias assistivas é o que possibilita o ingresso, a permanência e a atuação independente de pessoas com deficiência no campo da tecnologia da informação. A revisão aborda a questão de pesquisa ao afirmar que a acessibilidade remove os obstáculos técnicos da navegação, possibilitando que profissionais PcD realizem tarefas de alta complexidade.
@@ -45,7 +46,7 @@ Este trabalho tem como limitação a seleção de uma amostra restrita de artigo
 
 ## Resumo
 
-`\\\[No ecossistema da Tecnologia da Informação (TI), a inclusão de Pessoas com Deficiência (PcD) é um desafio tanto no cumprimento das normas de acessibilidade quanto na adaptação de softwares.  Este trabalho de revisão de literatura examina de que maneira a adoção de diretrizes de acessibilidade digital e de tecnologias assistivas favorece a inclusão acadêmica e profissional de PcDs no campo da Tecnologia da Informação. A pesquisa seguiu uma metodologia integrativa, realizada nas bases SciELO, Google Acadêmico e portais de periódicos, com artigos publicados entre 2022 e 2025.  Os dados indicam que, mesmo com a normatização e a otimização de recursos assistivos pela Inteligência Artificial, ainda existem barreiras significativas em Ambientes Virtuais de Aprendizagem e nas ferramentas de trabalho. Conclui que o design inclusivo nativo é indispensável para assegurar a autonomia de estudantes e profissionais PcD no setor de computação.]`
+`\\\[No ecossistema da Tecnologia da Informação (TI), a inclusão de Pessoas com Deficiência (PcD) é um desafio tanto no cumprimento das normas de acessibilidade quanto na adaptação de softwares.  Este trabalho de revisão de literatura examina de que maneira a adoção de diretrizes de acessibilidade digital e de tecnologias assistivas favorece a inclusão acadêmica e profissional de PcDs no campo da Tecnologia da Informação. A pesquisa seguiu uma metodologia integrativa, qualitativa e exploratória realizada nas bases SciELO, Google Acadêmico e portais de periódicos, com artigos publicados entre 2022 e 2025.  Os dados indicam que, mesmo com a normatização e a otimização de recursos assistivos pela Inteligência Artificial, ainda existem barreiras significativas em Ambientes Virtuais de Aprendizagem e nas ferramentas de trabalho. Conclui que o design inclusivo nativo é indispensável para assegurar a autonomia de estudantes e profissionais PcD no setor de computação.]`
 
 ## Referências
 
