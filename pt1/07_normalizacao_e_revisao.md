@@ -9,7 +9,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * Título do artigo: `\[Acessibilidade Digital e Inclusão: Os Impactos das Tecnologias Assistivas no Ensino e no Mercado de TI]`
 * Versão revisada: `\[1.0 (Versão Final)]`
 * Data: `\[30/09/2026]`
-* Responsável pela conferência final: `\[Leonardo Aparecido Resende Bispo]`
+* Responsável pela conferência final: `\[Leonardo Aparecido Rezende Bispo]`
 
 ## Revisão científica
 
