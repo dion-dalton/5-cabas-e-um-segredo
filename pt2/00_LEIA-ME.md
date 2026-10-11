@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
+- Curso e disciplina: `TER Design Profissional`
+- Professor ou orientador: `Isabella Luiza Dos Santos Souza`
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Integrantes: `Amauri De Aquino Lima, Daniel Carlos Silva, Alisson da Silva Meireles, Leonardo Aparecido Rezende Bispo e Dion Dalton`
+- Data de início: `15/09/2026`
 
 
 
