@@ -6,18 +6,17 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[De que forma as tecnologias assistivas incluem pessoas com deficiência no ensino e mercado de TI?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Analisar o papel das tecnologias assistivas na inclusão e permanência de pessoas com deficiência no ensino e no mercado de trabalho de TI.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Mapear as principais tecnologias assistivas utilizadas no aprendizado de computação.]`
+2. `[Identificar as barreiras enfrentadas por profissionais que possui deficiência em empresas de tecnologia.]`
+3. `[Discutir práticas para transformar os ambientes de ensino e de trabalho em TI mais acessíveis.]`
 
 ## Quadro de alinhamento
 
@@ -33,7 +32,7 @@ Um objetivo geral e de três a quatro objetivos específicos.
 
 ## Checklist
 
-- [ ] Os objetivos começam com verbos no infinitivo.
-- [ ] O objetivo geral responde ao problema.
-- [ ] Os objetivos específicos detalham o objetivo geral.
-- [ ] Os objetivos são compatíveis com uma revisão bibliográfica.
+- [X] Os objetivos começam com verbos no infinitivo.
+- [X] O objetivo geral responde ao problema.
+- [X] Os objetivos específicos detalham o objetivo geral.
+- [X] Os objetivos são compatíveis com uma revisão bibliográfica.
