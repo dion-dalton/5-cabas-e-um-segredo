@@ -6,9 +6,9 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Grupo: 6
+- Integrantes: `[Dion Dalton, Daniel Carlos Silva, Alisson da Silva Meireles, Leonardo Aparecido Resende Bispo e Amauri De Aquino Lima]`
+- Data: `[11/10/2026]`
 
 ## Preenchimento
 
@@ -18,7 +18,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[A acessibilidade digital e as tecnologias assistivas alteram a educação e o mercado de TI ao tirar as barreiras físicas e cognitivas para pessoas com deficiência.]`
 
 ### Do tema amplo ao específico
 
@@ -30,13 +30,14 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[Esse tema é importante, porque transforma a acessibilidade digital em uma ferramenta universal de emancipação, e não de exclusão, além disso, permite pessoas com deficiência tenham o direito de aprender e se desenvolver na área de TI de forma autônoma.
+ Já no mercado de TI, colocar esses profissionais vai resolver o déficit de talentos, traz diversidade cognitiva, para as equipes e resulta na criação de produtos nativamente mais inclusivos e inovadores.]`
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
@@ -44,11 +45,11 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- [ ] O tema é específico.
-- [ ] O tema é relevante.
-- [ ] O tema é viável.
-- [ ] O recorte está claro.
-- [ ] O tema foi validado pelo professor.
+- ['X'] O tema é específico.
+- ['X'] O tema é relevante.
+- ['X'] O tema é viável.
+- ['X'] O recorte está claro.
+- ['X'] O tema foi validado pelo professor.
 
 ## Contribuições
 
