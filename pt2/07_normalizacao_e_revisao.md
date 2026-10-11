@@ -6,47 +6,49 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `\[preencher]`
-* Versão revisada: `\[número]`
-* Data: `\[dd/mm/aaaa]`
-* Responsável pela conferência final: `\[preencher]`
+* Título do artigo: `\[Acessibilidade Digital e Inclusão: Os Impactos das Tecnologias Assistivas no Ensino e no Mercado de TI]`
+* Versão revisada: `\[1.0 (Versão Final)]`
+* Data: `\[30/09/2026]`
+* Responsável pela conferência final: `\[Leonardo Aparecido Rezende Bispo]`
 
 ## Revisão científica
 
-* \[ ] Tema, problema e objetivos estão alinhados.
-* \[ ] As conclusões respondem ao problema.
-* \[ ] Não existem afirmações sem fonte quando a fonte é necessária.
-* \[ ] As limitações do trabalho foram reconhecidas.
-* \[ ] Não foram incluídos resultados inexistentes.
+* \[X] Tema, problema e objetivos estão alinhados.
+* \[X] As conclusões respondem ao problema.
+* \[X] Não existem afirmações sem fonte quando a fonte é necessária.
+* \[X] As limitações do trabalho foram reconhecidas.
+* \[X] Não foram incluídos resultados inexistentes.
 
 ## Citações e referências
 
-* \[ ] Toda obra citada aparece nas referências.
-* \[ ] Toda referência listada foi citada no texto.
-* \[ ] Citações diretas contêm página.
-* \[ ] Autores, títulos, anos, DOI e links foram conferidos.
-* \[ ] O padrão exigido foi aplicado de forma consistente.
+* \[X] Toda obra citada aparece nas referências.
+* \[X] Toda referência listada foi citada no texto.
+* \[X] Citações diretas contêm página.
+* \[X] Autores, títulos, anos, DOI e links foram conferidos.
+* \[X] O padrão exigido foi aplicado de forma consistente.
 
 ## Escrita
 
-* \[ ] O texto possui sequência lógica.
-* \[ ] Os parágrafos apresentam uma ideia principal.
-* \[ ] Foram corrigidos ortografia e concordância.
-* \[ ] Repetições e frases vagas foram eliminadas.
-* \[ ] O texto diferencia descrição de análise crítica.
+* \[X] O texto possui sequência lógica.
+* \[X] Os parágrafos apresentam uma ideia principal.
+* \[X] Foram corrigidos ortografia e concordância.
+* \[X] Repetições e frases vagas foram eliminadas.
+* \[X] O texto diferencia descrição de análise crítica.
 
 ## Formatação
 
-* \[ ] O template institucional foi respeitado.
-* \[ ] Títulos e subtítulos estão padronizados.
-* \[ ] Tabelas e figuras possuem identificação e fonte.
-* \[ ] Margens, fonte, espaçamento e paginação foram conferidos.
+* \[X] O template institucional foi respeitado.
+* \[X] Títulos e subtítulos estão padronizados.
+* \[X] Tabelas e figuras possuem identificação e fonte.
+* \[X] Margens, fonte, espaçamento e paginação foram conferidos.
 
 ## Registro das correções
 
 |Seção|Problema encontrado|Correção realizada|Responsável|
 |-|-|-|-|
-|`\[preencher]`|`\[preencher]`|`\[preencher]`|`\[nome]`|
-
-
+|`\[Metodologia]`|`\[Ausência do período exato das buscas e detalhamento da triagem dos artigos.]`|`\[Incluídos o período exato de busca e os critérios de inclusão/exclusão da triagem.]`|`\[Dion Dalton]`|
+|`\[Revisão da Literatura]`|`\[Parágrafos com resumos isolados sem comparação explícita entre os autores.]`|`\[Reescreveu-se conectando os estudos e comparando as abordagens de Berberi & Fracaro (2022) com Grossi & Alvarenga (2025).]`|`\[Amauri De Aquino Lima]`|
+|`\[Citações e Referências]`|`\[Formatação dos DOIs e abreviações dos nomes de autores fora do padrão ABNT.]`|`\[Padronizaram-se as referências em estilo ABNT com todos os DOIs ativos e checados.]`|`\[Daniel Carlos Silva]`|
+|`\[Geral / Escrita]`|`\[Presença de jargões e frases longas na introdução que deixavam o foco ambíguo.]`|`\[Ajustaram-se a concordância e o sentido do texto para manter tom acadêmico e objetivo.]`|`\[Alisson da Silva Meireles]`|
+|`\[Considerações Finais]`|`\[A conclusão não reforçava as limitações da amostra do artigo de revisão.]`|`\[Adicionou-se o parágrafo explicitando a limitação amostral e a sugestão de pesquisas futuras em IDEs.]`|`\[Leonardo Aparecido Rezende Bispo]`|
 
