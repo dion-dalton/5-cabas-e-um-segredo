@@ -23,7 +23,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Inclusão de pessoas com deficiência por meio da Tecnologia da Informação.]`
-- Objeto estudado: `[preencher]`
+- Objeto estudado: `[Diretrizes de acessibilidade digital (como as WCAG e a Lei Brasileira de Inclusão) e tecnologias assistivas (leitores de tela, ampliadores, teclados adaptados, comandos de voz, legendas automáticas etc).]`
 - Contexto ou aplicação: `[preencher]`
 - Aspecto que será analisado: `[preencher]`
 - O que ficará fora do estudo: `[preencher]`
