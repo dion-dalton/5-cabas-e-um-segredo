@@ -16,7 +16,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 1. `[Mapear as principais tecnologias assistivas utilizadas no aprendizado de computação.]`
 2. `[Identificar as barreiras enfrentadas por profissionais que possui deficiência em empresas de tecnologia.]`
-3. `[Discutir práticas para transformar os ambientes de ensino e de trabalho em TI mais acessíveis.]`
+3. `[ Propor boas práticas para tornar ambientes de ensino e de trabalho em TI mais acessíveis.]`
 
 ## Quadro de alinhamento
 
