@@ -14,7 +14,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Área geral
 
-`[A área ampla de interesse desse tema é a Tecnologia da Informação (TI) voltada para o Impacto Social e Inclusão]`
+`[A área ampla de interesse do tema é a Tecnologia da Informação (TI) voltada para o Impacto Social e Inclusão]`
 
 ### Tema delimitado
 
