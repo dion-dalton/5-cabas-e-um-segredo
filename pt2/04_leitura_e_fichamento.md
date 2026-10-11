@@ -9,7 +9,8 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ## Identificação do artigo
 
 * Referência completa: `\[BERBERI, Marcos Antonio; FRACARO, Fernando. Pessoas com deficiência, acessibilidade e tecnologia: entre possibilidades e desafios para a inclusão. Pensar - Revista de Ciências Jurídicas e Sociais, Fortaleza, v. 27, n. 4, p. 1-14, 2022.]`
-* DOI ou URL: `\[https://doi.org/10.5020/2317-2150.2022.11972]`
+* DOI ou URL: \[https://doi.org/10.5020/2317-2150.2022.11972]
+(https://ojs.unifor.br/rpen/article/view/11972)
 * Base de origem: `\[SciELO / Google Acadêmico]`
 * Leitor responsável: `\[Dion Dalton]`
 * Data da leitura: `\[24/09/2026]`
