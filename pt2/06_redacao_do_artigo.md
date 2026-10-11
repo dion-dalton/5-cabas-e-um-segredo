@@ -10,11 +10,11 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Palavras-chave
 
-`\\\[palavra 1]; \\\[palavra 2]; \\\[palavra 3]`
+`\\\[Acessibilidade Digital e Inclusão: Os Impactos das Tecnologias Assistivas no Ensino e no Mercado de TI]`
 
 ## Introdução
 
-`\\\[Apresente contexto, foco, problema ou lacuna, justificativa e objetivo.]`
+`\\\[Acessibilidade Digital]; \\\[Tecnologias Assistivas]; \\\[Inclusão Social.]`
 
 ## Metodologia
 
