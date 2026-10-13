@@ -60,7 +60,7 @@ Tema delimitado e justificativa.
 | Integrante | Atividade realizada |
 |---|---|
 | `[leonardo]` | `[sim]` |
-| `[dion]` |`[revisar uma quantidade parcial dos arquivos e padronizar dados alem de propor tema]`|
+| `[dion]` |`[revisar uma quantidade parcial dos arquivos em geral, padronizar dados, propor tema e indicações]`|
 | `[amauri]` |
 | `[daniel]` |
 | `[alison]` |
