@@ -40,7 +40,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[leonardo]` | `[sim]` |
+| `[leonardo]` | `[coleta das informações` |
 | `[dion]` | `[padronizar dados, garantir integridade dos arquivos]`|
 | `[amauri]` |
 | `[daniel]` |
