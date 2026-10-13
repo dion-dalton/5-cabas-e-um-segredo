@@ -23,9 +23,13 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Inclusão de pessoas com deficiência por meio da Tecnologia da Informação.]`
+  
 - Objeto estudado: `[Diretrizes de acessibilidade digital (como as WCAG e a Lei Brasileira de Inclusão) e tecnologias assistivas, incluindo recursos com Inteligência Artificial (como leitores de tela, ampliadores, teclados adaptados, comandos de voz, legendas automáticas, descrição automática de imagens, transcrição em tempo real).]`
+  
 - Contexto ou aplicação: `[Ensino de TI e educação profissional e tecnológica (plataformas de ensino remoto/EAD, Ambientes Virtuais de Aprendizagem) e ambientes de trabalho do setor de TI no Brasil, com base em publicações em língua portuguesa entre 2021 e 2026.]`
+  
 - Aspecto que será analisado: `[Como a adoção de diretrizes de acessibilidade e de tecnologias assistivas contribui para o ingresso, a permanência e a autonomia de PcD na área de TI, considerando as barreiras apontadas pela literatura (plataformas e interfaces mal projetadas) e o papel da IA, cuja eficácia depende de uma base acessível desde a concepção.]`
+  
 - O que ficará fora do estudo: `[A avaliação de ferramentas específicas de desenvolvimento (IDEs, repositórios de código), que aparece na síntese crítica como lacuna para pesquisas futuras.]`
 
 ### Justificativa
