@@ -36,7 +36,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-`[A literatura científica analisada indica uma tendência clara: a inclusão de pessoas com deficiência no mercado de tecnologia depende diretamente da aplicação nativa de diretrizes de acessibilidade e da evolução das tecnologias assistivas, incluindo novos recursos de IA. No entanto, observa-se uma divergência de foco entre os estudos, onde parte da pesquisa se limita ao debate jurídico/normativo, enquanto outra parcela analisa a aplicação prática em sala de aula. A principal lacuna identificada na literatura é a falta de estudos voltados especificamente para a rotina de trabalho em TI (como a acessibilidade em IDEs de programação, repositórios de código e ferramentas de cibersegurança), indicando a necessidade de investigar como essas barreiras afetam na prática a atuação profissional em computação..]`
+'[A literatura científica analisada aponta uma tendência evidente: a inserção de pessoas com deficiência no setor de tecnologia depende diretamente da implementação efetiva de diretrizes de acessibilidade e do avanço das tecnologias assistivas, incluindo novos recursos de inteligência artificial. Entretanto, há uma diferença de enfoque entre os estudos: uma parte se restringe ao debate jurídico/normativo, enquanto outra examina a aplicação prática em sala de aula. A principal lacuna apontada na literatura é a escassez de pesquisas focadas especificamente na rotina de trabalho em TI, como a acessibilidade em IDEs de programação, repositórios de código e ferramentas de cibersegurança. Isso evidencia a necessidade de investigar como essas barreiras impactam, na prática, a atuação profissional na área da computação.]'
 
 
 ## Checklist
