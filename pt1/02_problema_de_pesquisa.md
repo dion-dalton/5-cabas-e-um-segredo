@@ -41,7 +41,7 @@ Pergunta de pesquisa aprovada.
 | Integrante | Atividade realizada |
 |---|---|
 | `[leonardo]` | `[sim]` |
-| `[dion]` | 
+| `[dion]` | `[revisar uma quantidade parcial dos arquivos e padronizar dados]`|
 | `[amauri]` |
 | `[daniel]` |
 | `[alison]` |
