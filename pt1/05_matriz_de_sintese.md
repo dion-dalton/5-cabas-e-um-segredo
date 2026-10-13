@@ -36,7 +36,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Síntese crítica provisória
 
-`[A literatura científica analisada mostra uma evidência: a inserção de pessoas com deficiência no setor de tecnologia depende diretamente da realização eficiente das diretrizes de acessibilidade e do avanço das tecnologias assistivas, incluindo novos recursos de inteligência artificial.  Entretanto, há uma diferença de enfoque entre os estudos: uma parte se restringe ao debate jurídico/normativo, enquanto outra examina a aplicação prática em sala de aula.  A principal barreira apontada na literatura é a falta de pesquisas focadas especificamente na rotina de trabalho em TI, como a acessibilidade em IDEs de programação, repositórios de código e ferramentas de cibersegurança.  Isso mostra a necessidade de investigar como essas barreiras impactam, na prática, a atuação profissional na área da computação.]`
+`[A literatura científica analisada mostra uma evidência: a inclusão de pessoas com deficiência no setor de tecnologia depende diretamente da realização eficiente das diretrizes de acessibilidade e do avanço das tecnologias assistivas, incluindo novos recursos de inteligência artificial.  Entretanto, há uma diferença de enfoque entre os estudos: uma parte se restringe ao debate jurídico/normativo, enquanto outra examina a aplicação prática em sala de aula.  A principal barreira apontada na literatura é a falta de pesquisas focadas especificamente na rotina de trabalho em TI, como a acessibilidade em IDEs de programação, repositórios de código e ferramentas de cibersegurança.  Isso mostra a necessidade de investigar como essas barreiras afetam, na prática, a atuação profissional na área da computação.]`
 
 ## Checklist
 
