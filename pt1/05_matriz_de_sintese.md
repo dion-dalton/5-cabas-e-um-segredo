@@ -30,9 +30,9 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 ### Eixo 2
 
 * Ideia principal: `[O avanço das tecnologias assistivas e da Inteligência Artificial impulsiona a autonomia de pessoas com deficiência, desde que a interface do sistema permita a integração.]`
-* Evidências que serão usadas: `[Análise sobre recursos inteligentes de acessibilidade de Silva et al. (2023) e conceitos de tecnologia assistiva de Berberi e Fracaro (2022).]`
-* Comparação entre estudos: `[Silva et al. (2023) trazem uma visão mais atualizada ao incluir a IA como leitora inteligente e geradora de alt-text, complementando a visão de Berberi e Fracaro (2022) sobre o uso de leitores de tela tradicionais.]`
-* Ligação com o problema: `[Responde à pergunta mostrando como ferramentas modernas aumentam o desempenho e a autonomia de profissionais PcD quando integradas a softwares acessíveis.]`
+* Evidências que serão usadas: `[Gonçalves e Silva (2026): reconhecimento de fala e síntese de voz ampliam o acesso à informação. Berberi e Fracaro (2022): acessibilidade ubíqua e ressalva sobre o custo dos ambientes inteligentes. Grossi e Alvarenga (2025): falta de recursos e de preparo nas instituições.]`
+* Comparação entre estudos: `[Gonçalves e Silva (2026) destacam o potencial da IA; Berberi e Fracaro (2022) concordam, mas chamam atenção para o custo; Grossi e Alvarenga (2025) completam apontando a carência de recursos e preparo pedagógico.]`
+* Ligação com o problema: `[Responde à pergunta mostrando como ferramentas modernas e a IA aumentam o desempenho e a autonomia de profissionais PcD quando integradas a softwares acessíveis.]`
 
 ## Síntese crítica provisória
 
