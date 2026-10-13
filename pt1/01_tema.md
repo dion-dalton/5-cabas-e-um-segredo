@@ -45,11 +45,11 @@ Tema delimitado e justificativa.
 
 ## Checklist
 
-- ['X'] O tema é específico.
-- ['X'] O tema é relevante.
-- ['X'] O tema é viável.
-- ['X'] O recorte está claro.
-- ['X'] O tema foi validado pelo professor.
+- [X] O tema é específico.
+- [X] O tema é relevante.
+- [X] O tema é viável.
+- [X] O recorte está claro.
+- [X] O tema foi validado pelo professor.
 
 ## Contribuições
 
