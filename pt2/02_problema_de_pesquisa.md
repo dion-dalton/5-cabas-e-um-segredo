@@ -36,4 +36,8 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[leonardo]` | `[sim]` |
+| `[dion]` | 
+| `[amauri]` |
+| `[daniel]` |
+| `[alison]` |
