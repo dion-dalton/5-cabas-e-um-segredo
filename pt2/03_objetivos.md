@@ -23,7 +23,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 | Elemento | Texto |
 |---|---|
 | Problema | `[Como a falta de aplicação prática de normas de acessibilidade digital e a escassez de tecnologias assistivas perpetuam a exclusão de Pessoas com Deficiência (PcD) no acesso ao conhecimento e ao mercado formal.]` |
-| Objetivo geral | `[preencher]` |
+| Objetivo geral |  |
 | Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
 
 ## Produto da etapa
