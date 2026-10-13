@@ -23,7 +23,7 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 | Elemento | Texto |
 |---|---|
 | Problema | `[A desconexão entre as leis de acessibilidade e a sua aplicação prática, aliada ao custo e à falta de preparo das instituições, perpetua a exclusão de pessoas com deficiência no ensino e no mercado de TI.]` |
-| Objetivo geral | '[Analisar de que forma as diretrizes de acessibilidade e as tecnologias assistivas promovem a inclusão e a autonomia de pessoas com deficiência na área de TI.]' |
+| Objetivo geral |´[Analisar de que forma as diretrizes de acessibilidade e as tecnologias assistivas promovem a inclusão e a autonomia de pessoas com deficiência na área de TI.]´ |
 | Resultado esperado | `[Uma síntese crítica que demonstra que a tecnologia e a legislação só geram inclusão real quando combinadas com o Desenho Universal, a capacitação de educadores e a eliminação de barreiras socioeconômicas.]` |
 
 ## Produto da etapa
