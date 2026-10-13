@@ -43,5 +43,5 @@ Pergunta de pesquisa aprovada.
 | `[leonardo]` | `[coleta das informações]` |
 | `[dion]` | `[padronizar dados, garantir integridade dos arquivos]`|
 | `[amauri]` |
-| `[daniel]` |
+| `[daniel]` | `[Revisão das informações]`  |
 | `[alison]` |
