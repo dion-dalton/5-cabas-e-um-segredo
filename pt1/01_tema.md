@@ -62,5 +62,5 @@ Tema delimitado e justificativa.
 | `[leonardo]` | `[contribui para a escolha do tema e também em buscar informações desse assunto.]` |
 | `[dion]` |`[revisar uma quantidade parcial dos arquivos em geral, padronizar dados, propor tema e indicações]`|
 | `[amauri]` |
-| `[daniel]` |
+| `[daniel]` | `[Concluir e revisar as etapas 1, 2 e 3.]`|
 | `[alison]` |
