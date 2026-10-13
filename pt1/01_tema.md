@@ -21,7 +21,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 `[A acessibilidade digital e as tecnologias assistivas alteram a educação e o mercado de TI ao tirar as barreiras físicas e cognitivas para pessoas com deficiência.]`
 
 ### Do tema amplo ao específico
-<div align="center">
+
 - Tema amplo: `[Inclusão de pessoas com deficiência por meio da Tecnologia da Informação.]`
   
 - Objeto estudado: `[Diretrizes de acessibilidade digital (como as WCAG e a Lei Brasileira de Inclusão) e tecnologias assistivas, incluindo recursos com Inteligência Artificial (como leitores de tela, ampliadores, teclados adaptados, comandos de voz, legendas automáticas, descrição automática de imagens, transcrição em tempo real).]`
