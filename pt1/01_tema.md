@@ -6,7 +6,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ## Identificação
 
-- Grupo: 6
+- Grupo: 
 - Integrantes: `[Dion Dalton, Daniel Carlos Silva, Alisson da Silva Meireles, Leonardo Aparecido Resende Bispo e Amauri De Aquino Lima]`
 - Data: `[11/10/2026]`
 
