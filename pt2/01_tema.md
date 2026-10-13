@@ -55,4 +55,8 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[leonardo]` | `[sim]` |
+| `[dion]` | 
+| `[amauri]` |
+| `[daniel]` |
+| `[alison]` |
