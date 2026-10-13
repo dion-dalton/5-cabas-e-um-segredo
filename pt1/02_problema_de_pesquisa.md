@@ -15,9 +15,13 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? `[Compreender como as tecnologias assistivas quebram barreiras para pessoas com deficiência.]`
+  
 - Qual é o objeto da pergunta? `[A acessibilidade digital e a inclusão social.]`
+  
 - Qual é o contexto ou recorte? `[O ensino de tecnologia e o mercado de trabalho de TI.]`
+  
 - A pergunta pode ser respondida por artigos científicos? `[Sim, o tema é muito estudado por  pesquisas de Engenharia de Software (Acessibilidade/UX) e Educação inclusiva.]`
+  
 - Por que essa pergunta é relevante? `[Porque permite mais chances a pessoas com algum déficit na área de TI e traz diversidade cognitiva para as equipes.]`
 
 ## Produto da etapa
