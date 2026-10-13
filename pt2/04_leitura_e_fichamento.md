@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `\[BERBERI, Marcos Antonio; FRACARO, Fernando. Pessoas com deficiência, acessibilidade e tecnologia: entre possibilidades e desafios para a inclusão. Pensar - Revista de Ciências Jurídicas e Sociais, Fortaleza, v. 27, n. 4, p. 1-14, 2022.]`
+* Referência completa: `\[BERBERI, Marco Antonio Lima; FRACARO, Beatriz. Pessoas com deficiência, acessibilidade e tecnologia: entre possibilidades e desafios para a inclusão. Pensar – Revista de Ciências Jurídicas, Fortaleza, v. 27, n. 4, p. 1-14, out./dez. 2022.]`
 * DOI ou URL: \[https://doi.org/10.5020/2317-2150.2022.11972]
 * Base de origem: `\[SciELO / Google Acadêmico]`
 * Leitor responsável: `\[Dion Dalton]`
@@ -56,8 +56,8 @@ Página: \[8]
 
 ## Identificação do artigo 2
 
-* Referência completa: \[SILVA, E. P. da et al. Inteligência artificial e inclusão: desafios e limitações para pessoas com deficiência. Revista FT, v. 28, n. 1, p. 1-15, 2023.]
-* DOI ou URL: \[[https://doi.org/10.5020/2317-2150.2022.11972](https://doi.org/10.5281/zenodo.7800000)]
+* Referência completa: \[GONÇALVES, Suellen Souza; SILVA, Patrícia Nascimento. Inteligência artificial em audiolivros: aplicações e perspectivas. Palabra Clave (La Plata), v. 15, n. 2, e282, 2026.]
+* DOI ou URL: \[[[https://doi.org/10.24215/18539912e282](https://www.palabraclave.fahce.unlp.edu.ar/article/view/PCe282)](https://doi.org/10.5281/zenodo.7800000)]
 * Base de origem: \[Revista FT / Google Acadêmico]
 * Leitor responsável: \[Amauri De Aquino Lima]
 * Data da leitura: \[25/09/2026]
@@ -103,8 +103,7 @@ Página: \[5]
 
 ## Identificação do artigo 3
 
-* Referência completa: \[GROSSI, Marcia Gorete Rodrigues; ALVARENGA, Adrielle Ketlenn Fernandes de. Acessibilidade e tecnologia assistiva no contexto da educação profissional e tecnológica.
-* SCIAS - Educação, Comunicação e Tecnologia, v. 7, n. 1, p. 7-31, 2025.]
+* Referência completa: \[GROSSI, Marcia Gorett Ribeiro; ALVARENGA, Adrielle Ketllenn Fernandes de. Acessibilidade e tecnologia assistiva no contexto da educação profissional e tecnológica. SCIAS – Educação, Comunicação e Tecnologia, Belo Horizonte, v. 7, n. 1, p. 7-31, jan./set. 2025.]
 * DOI ou URL: \[https://doi.org/10.36704/sciaseducomtec.v7i1.9546]
 * Base de origem: \[Portal de Periódicos UEMG / SciELO]
 * Leitor responsável: \[Daniel Carlos Silva]
