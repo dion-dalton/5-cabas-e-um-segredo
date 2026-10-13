@@ -59,7 +59,7 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[leonardo]` | `[revisei o resumo final, inseri as informações no documento do resumo e da apresentação]` |
+| `[leonardo]` | `[contribui para a escolha do tema, buscar as informações e para inserir esses dados no github.]` |
 | `[dion]` |`[revisar uma quantidade parcial dos arquivos em geral, padronizar dados, propor tema e indicações]`|
 | `[amauri]` |
 | `[daniel]` |
